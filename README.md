@@ -34,4 +34,4 @@ if (isAwesome){
 }
 ```
 
-you can **edit** them
+you can **edit** or *modify* them
