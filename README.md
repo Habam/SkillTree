@@ -9,15 +9,6 @@ SkillTree
 2. b
 3. c
 
-* a
-* b
-* c
-
-- a
-- b
-  - 1
-  - 2
-
 ```
 if (isAwesome){
   return true
